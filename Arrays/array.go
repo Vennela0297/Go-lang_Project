@@ -7,7 +7,7 @@ import
 	
 func main(){
 
-	var a [] int = []int{1,22,33,4,5,3,8,33,22}
+	var a [] int = []int{1,22,33,4,22,5,3,8,33,22}
 	var b int
 	b = 0
 
